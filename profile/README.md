@@ -35,7 +35,7 @@ Want to supercharge your data, AI strategy, or insight workflows? We'd love to h
 
 </small>
 &nbsp;
-<p align="right"><sub><em>strategy in data’s language 💜</em></sub></p>
+<p align="right"><sub><em>strategy in data’s language ♥️</em></sub></p>
 
 <!--
 **majoremai/majoremai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
