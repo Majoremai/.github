@@ -14,11 +14,11 @@ Most organisations don't have a data problem, they have a clarity problem. The d
 
 **interested in?**
 
-- **strategy** — data roadmaps, commercial planning, decision frameworks, stakeholder alignment
-- **data science** — predictive models, statistical analysis, feature engineering, ML pipelines
-- **visualisation** — dashboards that get used, supply chain reporting, executive-ready visual systems
-- **ai-driven insight** — LLM-powered workflows, automated insight generation, AI readiness
-- **commercial storytelling** — investor narratives, board-level reporting, performance communication
+- **strategy**: data roadmaps, commercial planning, decision frameworks, stakeholder alignment
+- **data science**: predictive models, statistical analysis, feature engineering, ML pipelines
+- **visualisation**: dashboards that get used, supply chain reporting, executive-ready visual systems
+- **ai-driven insight**: LLM-powered workflows, automated insight generation, AI readiness
+- **commercial storytelling**: investor narratives, board-level reporting, performance communication
 
 </small>
 
@@ -30,7 +30,8 @@ Most organisations don't have a data problem, they have a clarity problem. The d
 
 **let's work together**
 
-Want to supercharge your data, AI strategy, or insight workflows? We'd love to help. 📩 **studio@majorem.ai**
+Want to supercharge your data, AI strategy, or insight workflows? We'd love to help. 
+📩 **studio@majorem.ai**
 
 </small>
 &nbsp;
