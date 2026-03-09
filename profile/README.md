@@ -5,7 +5,7 @@ AI Strategy & Data Science Consultancy
 
 We help organisations make sharper decisions, faster.
 
-Most organisations don't have a data problem, they have a clarity problem. The data exists. What's missing is the strategy to act on it, the science to find what matters, and the storytelling to make it land. We fix that.
+Most teams don't have a data problem, they have a clarity problem. The data exists. What's missing is the strategy to act on it, the science to find what matters, and the storytelling to make it land. We fix that.
 &nbsp;
 
 &nbsp;
