@@ -1,6 +1,6 @@
 
 ## Welcome to [Majórem.ai](http://majorem.ai/)✌🏾
-Strategy & Data Science Consultancy
+AI Strategy & Data Science Consultancy
 > *"a strategy lives and dies by how well you understand the problem. understand the problem."*
 
 We help organisations make sharper decisions, faster.
