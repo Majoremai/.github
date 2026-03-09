@@ -12,13 +12,13 @@ Most teams don't have a data problem, they have a clarity problem. The data exis
 
 <small>
 
-**interested in?**
+**Interested in?**
 
-- **strategy**: data roadmaps, commercial planning, decision frameworks, stakeholder alignment
-- **data science**: predictive models, statistical analysis, feature engineering, ML pipelines
-- **visualisation**: dashboards that get used, supply chain reporting, executive-ready visual systems
-- **ai-driven insight**: LLM-powered workflows, automated insight generation, AI readiness
-- **commercial storytelling**: investor narratives, board-level reporting, performance communication
+- **Strategy**: data roadmaps, commercial planning, decision frameworks, stakeholder alignment
+- **Data Science**: predictive models, statistical analysis, feature engineering, ML pipelines
+- **Visualisation**: dashboards that get used, supply chain reporting, executive-ready visual systems
+- **AI-driven Insight**: LLM-powered workflows, automated insight generation, AI readiness
+- **Commercial Storytelling**: investor narratives, board-level reporting, performance communication
 
 </small>
 
@@ -28,7 +28,7 @@ Most teams don't have a data problem, they have a clarity problem. The data exis
 
 <small>
 
-**let's work together**
+**Let's work together**
 
 Want to supercharge your data, AI strategy, or insight workflows? We'd love to help. 
 📩 **studio@majorem.ai**
