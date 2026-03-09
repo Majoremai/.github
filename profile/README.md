@@ -28,7 +28,7 @@ Most teams don't have a data problem, they have a clarity problem. The data exis
 
 <small>
 
-**Let's work together**
+**Let's work together** 🌱
 
 Want to supercharge your data, AI strategy, or insight workflows? We'd love to help. 
 📩 **studio@majorem.ai** or **chris@majorem.ai**
