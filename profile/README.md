@@ -14,11 +14,11 @@ Most teams don't have a data problem, they have a clarity problem. The data exis
 
 **Interested in?**
 
-- **Strategy**: data roadmaps, commercial planning, decision frameworks, stakeholder alignment
-- **Data Science**: predictive models, statistical analysis, feature engineering, ML pipelines
-- **Visualisation**: dashboards that get used, supply chain reporting, executive-ready visual systems
-- **AI-driven Insight**: LLM-powered workflows, automated insight generation, AI readiness
-- **Commercial Storytelling**: investor narratives, board-level reporting, performance communication
+- **Strategy**: _data roadmaps, commercial planning, decision frameworks, stakeholder alignment_
+- **Data Science**: _predictive models, statistical analysis, feature engineering, ML pipelines_
+- **Visualisation**: _dashboards that get used, supply chain reporting, executive-ready visual systems_
+- **AI-driven Insight**: _LLM-powered workflows, automated insight generation, AI readiness_
+- **Commercial Storytelling**: _investor narratives, board-level reporting, performance communication_
 
 </small>
 
