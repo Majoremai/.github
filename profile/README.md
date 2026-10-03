@@ -3,7 +3,7 @@
 AI Strategy, Data Science & Decision Intelligence
 > *"A strategy lives and dies by how well you understand the problem. So understand the problem."*
 
-We help organisations make sharper decisions, faster.
+We build the intelligence systems that help organisations make sharper decisions, faster.
 
 Most teams don't have a data problem, they have a clarity problem. The data exists. What's missing is the strategy to act on it, the science to find what matters, and the storytelling to make it land. We fix that.
 &nbsp;
